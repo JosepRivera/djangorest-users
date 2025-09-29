@@ -21,9 +21,9 @@ A simple REST API for **user management** built with **Django Rest Framework (DR
 ## 📂 Project Structure
 
 ```
-project/
+DjangoRest - users/
 ├── users/        # User CRUD app
-├── project/      # Django project configuration
+├── config/      # Django project configuration
 ├── manage.py     # Django CLI tool
 ```
 
@@ -32,7 +32,7 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/drf-user-crud.git
+git clone [https://github.com/yourusername/drf-user-crud.git](https://github.com/JosepRivera/djangorest-users.git)
 cd drf-user-crud
 ```
 
