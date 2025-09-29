@@ -33,7 +33,7 @@ DjangoRest - users/
 
 ```bash
 git clone https://github.com/JosepRivera/djangorest-users.git
-cd drf-user-crud
+cd "DjangoRest - users"
 ```
 
 ### 2. Create and activate a virtual environment
