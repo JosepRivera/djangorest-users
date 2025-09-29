@@ -32,7 +32,7 @@ DjangoRest - users/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/drf-user-crud.git](https://github.com/JosepRivera/djangorest-users.git)
+git clone https://github.com/JosepRivera/djangorest-users.git
 cd drf-user-crud
 ```
 
